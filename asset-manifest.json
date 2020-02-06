@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/RGB_Color_Game/static/css/main.970f257a.chunk.css",
+    "main.js": "/RGB_Color_Game/static/js/main.c64d519f.chunk.js",
+    "main.js.map": "/RGB_Color_Game/static/js/main.c64d519f.chunk.js.map",
+    "runtime-main.js": "/RGB_Color_Game/static/js/runtime-main.88c538b2.js",
+    "runtime-main.js.map": "/RGB_Color_Game/static/js/runtime-main.88c538b2.js.map",
+    "static/js/2.b8db0481.chunk.js": "/RGB_Color_Game/static/js/2.b8db0481.chunk.js",
+    "static/js/2.b8db0481.chunk.js.map": "/RGB_Color_Game/static/js/2.b8db0481.chunk.js.map",
+    "index.html": "/RGB_Color_Game/index.html",
+    "precache-manifest.75865bdd7e6ab1b15c3c814a2a6de5e0.js": "/RGB_Color_Game/precache-manifest.75865bdd7e6ab1b15c3c814a2a6de5e0.js",
+    "service-worker.js": "/RGB_Color_Game/service-worker.js",
+    "static/css/main.970f257a.chunk.css.map": "/RGB_Color_Game/static/css/main.970f257a.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88c538b2.js",
+    "static/js/2.b8db0481.chunk.js",
+    "static/css/main.970f257a.chunk.css",
+    "static/js/main.c64d519f.chunk.js"
+  ]
+}
